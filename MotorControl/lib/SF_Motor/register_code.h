@@ -1,0 +1,6 @@
+#ifndef REGISTER_CODE_H
+#define REGISTER_CODE_H
+
+#define REGISTER_CODE "8C64-VX81"
+
+#endif
